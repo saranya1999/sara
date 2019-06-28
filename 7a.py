@@ -1,3 +1,3 @@
 st="hello"
-n=input("no of times to repeat")
+n=input(" ")
 print(st *int(n))
