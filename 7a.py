@@ -1,3 +1,3 @@
-st=input("Enter a string")
-n=input("No of times to repeat:")
-print(st * int(n))
+st=input("enter a string")
+n=input("no of times to repeat")
+print(st *int(n))
