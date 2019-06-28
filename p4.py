@@ -1,0 +1,2 @@
+da=input()
+print(da+".")
