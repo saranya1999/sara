@@ -1,3 +1,3 @@
-st="hello"
 n=input(" ")
-print(st *int(n))
+for i in range(0,n):
+print ("hello")
