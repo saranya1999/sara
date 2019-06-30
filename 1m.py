@@ -10,4 +10,4 @@ for i in zip(*b):
             
     else:
         break
-print(''.join(li))
+print(''.join(lai))
