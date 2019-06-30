@@ -1,3 +1,9 @@
-nu=list(map(int,input().split()))
-nu1=list(map(int,input().split()))
-print(nu1.count(nu[1])
+la=[int(i) for i in input().split()]
+n=la[0]
+k=la[1]
+la=[int(i) for i in input().split()]
+c=0
+for i in la:
+    if(i==k):
+        c=c+1
+print(c)
