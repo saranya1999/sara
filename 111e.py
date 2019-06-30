@@ -1,0 +1,5 @@
+nu=int(input())
+ils=list(map(int,input().split()))
+gl=max(ils)
+il=min(ils)
+print(il,gl)
